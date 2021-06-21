@@ -1,0 +1,7 @@
+name: Gamehandler
+version: ${project.version}
+main: net.marakaner.gamehandler.Gamehandler
+prefix: GameHandler
+authors: [ Marakaner ]
+description: GameHandler for using in GameModes
+website: marakaner.net
